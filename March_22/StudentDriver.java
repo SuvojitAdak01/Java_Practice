@@ -1,6 +1,4 @@
-package com.Java_Training;
-
-import java.sql.SQLOutput;
+package com.Java_Training.March_22;
 
 public class StudentDriver {
     public static void main(String[] args) {

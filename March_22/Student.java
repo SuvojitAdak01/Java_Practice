@@ -1,6 +1,4 @@
-package com.Java_Training;
-
-import javax.print.attribute.Size2DSyntax;
+package com.Java_Training.March_22;
 
 public class Student {
     int id;
